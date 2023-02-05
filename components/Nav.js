@@ -25,17 +25,14 @@ export default function Nav() {
             >
             Home
             </Navbar.Link>
-            <Navbar.Link>
-            About
-            </Navbar.Link>
             <Navbar.Link href="#">
             Services
             </Navbar.Link>
             <Navbar.Link href="#">
-            Pricing
+            Login
             </Navbar.Link>
             <Navbar.Link href="#">
-            Contact
+            Sign-up
             </Navbar.Link>
         </Navbar.Collapse>
         </Navbar>
